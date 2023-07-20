@@ -1,9 +1,9 @@
 #include "main.h"
 #include <stdio.h>
 /**
-*_isalpha - checks for alphabetic characters
-* @c - is  charactto be checked
-* return: 1 is alphabetic or 0 for anything else
+*_isalpha - checks for alphabetic characters.
+* @c - is  character to be checked.
+* return: 1 is alphabetic or 0 for anything else.
 */
 
 int _isalpha(int c)
@@ -13,7 +13,8 @@ int _isalpha(int c)
 	return (1);
 	}
 	return (0);
-}	
+}
+	
 
 
 
