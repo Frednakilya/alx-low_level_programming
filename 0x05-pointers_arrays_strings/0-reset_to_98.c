@@ -1,4 +1,5 @@
 #include "main.h"
+#include "unistd.h"
 /**
 *reset_to_98 - function that a pointer as int paramter.
 *@n : is number to be updated to 98
