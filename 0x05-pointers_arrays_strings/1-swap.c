@@ -2,8 +2,9 @@
 #include <stdio.h>
 /**
 * swap_int -Store the value of 'a' in 'change'
-* Assign the value of 'b' to 'a'
-* Assign the stored value from 'change' to 'b'
+* @a: swaps and stores the value of b
+* @b: swaps and stores the values of a
+* return: return 0
 */
 void swap_int(int *a, int *b)
 {
